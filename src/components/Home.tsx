@@ -12,7 +12,7 @@ export const Home = () => {
             </div>
 
             <div>
-                <img src="/me.JPG" alt="" className="h-[400px]"/>
+                <img src="/me.JPG" alt="" className="h-[400px] md:h-auto"/>
             </div>
         </div>
     )
