@@ -3,7 +3,8 @@ export const Home = () => {
         <div className="flex flex-col md:flex-row mt-10 container px-8 md:mx-auto gap-10 items-center">
             <div>
                 <h1 className="text-3xl md:text-6xl mb-5">Good to see you! <br /> My name is Arthur Silva.</h1>
-                <p className="text-xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima libero, consequatur at quod asperiores deserunt placeat officiis maxime voluptates, sit sapiente voluptatibus! Minima eveniet, dolor odit quaerat eius sequi ab? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis aperiam ratione earum, nemo necessitatibus fugit sit saepe labore deleniti aliquam numquam quidem at officiis ea vero magni? Autem, expedita vitae!</p>
+                <p className="text-xl">Systems Analysis and Development student at Senac College and passionate about technology since 2021, when I started my programming journey. Since then, I have been exploring both the front and back-end, with the goal of becoming a full stack developer. What motivates me most in this area is the possibility of creating real solutions to everyday problems; seeing an idea come to life on the screen is simply incredible. I am constantly curious, I like to learn new things and I feel fulfilled when I see a system working from end to end.
+                Outside of coding, I am a fan of RPGs, gym and soccer (although I prefer to watch it than play it).</p>
 
                 <div className="mt-10 flex items-center gap-15">
                     <div className="border border-blue-900 p-3 rounded-full cursor-pointer hover:bg-blue-900 transition">Talk with me</div>
