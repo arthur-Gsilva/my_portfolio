@@ -7,8 +7,8 @@ export const Home = () => {
                 Outside of coding, I am a fan of RPGs, gym and soccer (although I prefer to watch it than play it).</p>
 
                 <div className="mt-10 flex items-center gap-15">
-                    <div className="border border-blue-900 p-3 rounded-full cursor-pointer hover:bg-blue-900 transition">Talk with me</div>
-                    <div className="border border-blue-900 p-3 rounded-full cursor-pointer hover:bg-blue-900 transition">Download CV</div>
+                    <div className="button">Talk with me</div>
+                    <div className="button">Download CV</div>
                 </div>
             </div>
 
